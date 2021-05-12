@@ -3,7 +3,13 @@ AndroidFaceRecognizer
 
 This is an face detection and recognition application on Android based on Android OpenCV Android SDK which includes Java and NDK features.
 
-You can download the apk file from https://apkcombo.com/face-recognizer/com.yaylas.sytech.facerecognizer/
+You can download the apk file from:
+
+https://apkcombo.com/face-recognizer/com.yaylas.sytech.facerecognizer/ 
+
+or
+
+https://apk.support/app/com.yaylas.sytech.facerecognizer
 
 这是一个安卓端 人脸识别的APP源码，eclipse开发，可以编译安装。
 google play中下载的apk存在一个bug。
