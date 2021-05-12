@@ -212,7 +212,7 @@ JNIEXPORT void JNICALL Java_com_yaylas_sytech_facerecognizer_DetectionBasedTrack
 }
 
 JNIEXPORT jint JNICALL Java_com_yaylas_sytech_facerecognizer_FaceRecognitionActivity_faceRecognition
-(JNIEnv * jenv, jclass jclazz, jlong sample, jint size)
+(JNIEnv * jenv, jclass clazz, jlong sample, jint size)
 {
 
 
